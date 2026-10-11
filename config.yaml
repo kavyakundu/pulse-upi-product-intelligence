@@ -1,0 +1,32 @@
+apps:
+  phonepe:
+    package_id: "com.phonepe.app"
+    name: "PhonePe"
+
+  paytm:
+    package_id: "net.one97.paytm"
+    name: "Paytm"
+
+  googlepay:
+    package_id: "com.google.android.apps.nbu.paisa.user"
+    name: "Google Pay"
+
+analysis:
+  start_date: "2025-02-01"
+  end_date: "2026-07-31"
+
+scraping:
+  language: "en"
+  country: "in"
+  sort: "newest"
+  pilot_count: 500
+
+validation:
+  sample_size: 200
+  random_seed: 42
+
+metrics:
+  min_topic_reviews: 100
+  min_topic_prevalence: 0.005
+  min_prior_30d_reviews: 20
+  epsilon: 0.0001

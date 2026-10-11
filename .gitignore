@@ -1,0 +1,23 @@
+.venv/
+frontend/node_modules/
+frontend/dist/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+
+# Raw and processed review datasets
+data/raw/
+data/processed/
+
+# Large generated model and assignment files
+data/modeling/
+data/analysis/*predictions.csv
+data/analysis/*assignments.csv
+data/analysis/*diagnostics.csv
+data/validation/
+
+# Local model artifacts
+
+data/validation/

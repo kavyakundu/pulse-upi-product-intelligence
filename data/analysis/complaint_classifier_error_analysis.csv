@@ -1,0 +1,28 @@
+﻿model_name,error_type,error_priority,review_id,app,score,human_label,predicted_label,review_text,fold,model
+char_tfidf_logistic,false_negative,HIGH,43c42f35-eb7a-4bb5-8517-b0c26b7f5a09,googlepay,3,complaint,non_complaint,good but laggy,1,char_tfidf_logistic
+char_tfidf_logistic,false_negative,HIGH,ea73d694-3d66-428c-bc15-f4b15fd564cd,googlepay,1,complaint,non_complaint,good app but som bugs,3,char_tfidf_logistic
+char_tfidf_logistic,false_negative,HIGH,62ed38f0-7136-440f-a6af-4f0cef1ef9c7,paytm,2,complaint,non_complaint,cibil score good but not loan show this application,4,char_tfidf_logistic
+char_tfidf_logistic,false_negative,HIGH,8696b000-86bc-4d72-b6b2-ece88ad21e18,paytm,1,complaint,non_complaint,not good to force me to write reviews everytime. it sucks,3,char_tfidf_logistic
+char_tfidf_logistic,false_positive,MEDIUM,32217b28-0f6b-4c1e-991c-6c7378b77b23,googlepay,3,non_complaint,complaint,ok sevice,5,char_tfidf_logistic
+char_tfidf_logistic,false_positive,MEDIUM,77c541cb-9625-466b-be5f-212b6019ccfd,googlepay,1,non_complaint,complaint,waste app,2,char_tfidf_logistic
+char_tfidf_logistic,false_positive,MEDIUM,85e4fa41-5465-467e-8658-607b69fa38c7,googlepay,3,non_complaint,complaint,great app just a small suggestion home screen widget like the paytm or phonepe will be great,5,char_tfidf_logistic
+char_tfidf_logistic,false_positive,MEDIUM,8aea93d5-0650-47b1-8310-c41633c67813,googlepay,2,non_complaint,complaint,this app is useful for me to get money,4,char_tfidf_logistic
+char_tfidf_logistic,false_positive,MEDIUM,8b18c51a-f7e7-40ae-aef4-27baca778e22,googlepay,1,non_complaint,complaint,all the app is a fake app don't force people to play if you are a real india,3,char_tfidf_logistic
+char_tfidf_logistic,false_positive,MEDIUM,c58d1594-424d-4701-880f-77b0862fe862,googlepay,1,non_complaint,complaint,fraud google,4,char_tfidf_logistic
+char_tfidf_logistic,false_positive,MEDIUM,c7f23135-b2d7-43aa-8bae-4ed42145c0cd,googlepay,2,non_complaint,complaint,it is very helpful,1,char_tfidf_logistic
+char_tfidf_logistic,false_positive,MEDIUM,c9e29854-1402-44b4-9057-3842d70415bc,googlepay,2,non_complaint,complaint,here after going to use bhim or indian upi apps only. swadeshi,4,char_tfidf_logistic
+char_tfidf_logistic,false_positive,MEDIUM,db4f1cff-afd5-4858-8f25-f772f679578f,googlepay,3,non_complaint,complaint,advance payment method thank you for making this app,1,char_tfidf_logistic
+char_tfidf_logistic,false_positive,MEDIUM,f8d2e405-2699-4a08-bdf0-800ddd220aa1,googlepay,2,non_complaint,complaint,this app wonderful app,1,char_tfidf_logistic
+char_tfidf_logistic,false_positive,MEDIUM,06ca7867-727a-4e81-8d91-a7d488fde201,paytm,3,non_complaint,complaint,ok cool,4,char_tfidf_logistic
+char_tfidf_logistic,false_positive,MEDIUM,265342ab-e4c2-41e3-bb63-46e673f81776,paytm,3,non_complaint,complaint,"payment system is bettern than other app ,g,p-pay",1,char_tfidf_logistic
+char_tfidf_logistic,false_positive,MEDIUM,345f4383-f658-49f3-9ba7-2f892e61fb99,paytm,3,non_complaint,complaint,very nice app hai mast hai,5,char_tfidf_logistic
+char_tfidf_logistic,false_positive,MEDIUM,8d13ec58-6d40-40df-aedb-005ff6bd9d81,paytm,1,non_complaint,complaint,"deleting my paytm account permanently today, goodbye paytm it was a long journey for 7 years, you are of no use.",2,char_tfidf_logistic
+char_tfidf_logistic,false_positive,MEDIUM,29a4911f-449d-454b-b7d1-db4938c94a9d,phonepe,2,non_complaint,complaint,wow nice app,5,char_tfidf_logistic
+char_tfidf_logistic,false_positive,MEDIUM,3435253b-88df-4d0b-96be-1a4010bc731d,phonepe,3,non_complaint,complaint,not bad,3,char_tfidf_logistic
+char_tfidf_logistic,false_positive,MEDIUM,37296ea8-4062-440f-8fca-a01a561a63f8,phonepe,1,non_complaint,complaint,nice app this,5,char_tfidf_logistic
+char_tfidf_logistic,false_positive,MEDIUM,3c64cc82-7d81-40cf-b71b-1317d50ef79f,phonepe,1,non_complaint,complaint,unlimited balance,3,char_tfidf_logistic
+char_tfidf_logistic,false_positive,MEDIUM,47ae7922-59e0-44d3-a2c9-8cd6fcc43dcc,phonepe,2,non_complaint,complaint,achha nahi laga,5,char_tfidf_logistic
+char_tfidf_logistic,false_positive,MEDIUM,9be161f7-1f3c-42b5-b1d3-7b11bd06339a,phonepe,1,non_complaint,complaint,very bad,5,char_tfidf_logistic
+char_tfidf_logistic,false_positive,MEDIUM,af9eb1bb-d7ee-40b8-b09f-11c57c82f891,phonepe,3,non_complaint,complaint,many updates but good,1,char_tfidf_logistic
+char_tfidf_logistic,false_positive,MEDIUM,c6043e43-af1e-4b7a-b9b8-5b8890a82217,phonepe,3,non_complaint,complaint,this is good but i choose gpay,3,char_tfidf_logistic
+char_tfidf_logistic,false_positive,MEDIUM,d3bcfc43-bd4a-4f43-9998-de149d3a7062,phonepe,3,non_complaint,complaint,good but not the best,2,char_tfidf_logistic
